@@ -1,3 +1,3 @@
-Hi, I’m CHRISTO SAJY and I’m a Certified Full Stack Developer in Python with Python Developer Expert Certificate from Luminar Technolab, Kochi. Myself a Bachelor of Computer Applications Graduate from Mahathma Gandhi University, Kottayam.
+Hi, I’m Christo Sajy, a Python enthusiast and Computer Applications graduate from Mahatma Gandhi University, Kottayam, India. I’m currently pursuing a Master’s degree in the same field.
   
 
