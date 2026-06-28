@@ -1,4 +1,4 @@
-### Hi, I'm Christo Sajy 👋
+### Hi technophiles, I'm Christo Sajy 👋
 
 I build web applications using Python, Django, MySQL, and PostgreSQL — 
 honed across 4 internships before completing my degree.
